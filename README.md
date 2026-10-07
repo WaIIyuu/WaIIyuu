@@ -1,16 +1,12 @@
-## Hi there 👋
+# Sobre mim 
+Estudante do segundo semestre em Analise e desenvolvimento de sistemas(TADS 2026), que gosta de cultura pop e tecnologia.
+## Habilidades e Ferramentas
+- Logica de programação
+- Git e GitHub
+- Informática básica
+- Pacote Office
+- PowerBI
+## Projetos do Curso
 
-<!--
-**WaIIyuu/WaIIyuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+ewertonwalace934@gmail.com
